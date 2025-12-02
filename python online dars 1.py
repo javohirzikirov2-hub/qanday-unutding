@@ -1,0 +1,7 @@
+# print("Salom, Dunyo")
+# print("Men", "Python", "organyapman")
+# print("oyna", "Ko'k", "to'q", sep=",")
+# print("bu birinchi qator:", end=" | ")
+# print("bu ikkinchi qator:")
+print(2+2)
+print("2+2=", 2+2)
